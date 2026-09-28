@@ -6,4 +6,4 @@ def run_code(user_input):
 def connect():
     password = "FAKE_TEST_PASSWORD"
     return password
-# Testing automatic code review webhook
+# Testing automated review comments
